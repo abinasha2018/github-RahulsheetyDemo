@@ -40,6 +40,14 @@ print("{} {}".format("Value is " , b))
 #7. Dictionary
 #8. Set
 print("Data types in Python")
+print("1. Integer")
+print("2. Float")
+print("3. String")
+print("4. Boolean")
+print("5. List")
+print("6. Tuple")
+print("7. Dictionary")
+print("8. Set")
 
 
 
