@@ -2,6 +2,8 @@ print("hello")
 print("Abinasha")
 print("Welcome to Python Programming")
 
+
+
 #here are the comments i have defined
 
 #Variable declaration
@@ -28,6 +30,16 @@ print(f"Value is = {b}")
 
 print("{} {}".format("Value is " , b))
 
+#Data types in python
+#1. Integer
+#2. Float
+#3. String
+#4. Boolean
+#5. List
+#6. Tuple
+#7. Dictionary
+#8. Set
+print("Data types in Python")
 
 
 
